@@ -1,6 +1,3 @@
-Noise Engineering Non-commercial Licensing Option
-==========================
-
 GNU General Public License
 ==========================
 
