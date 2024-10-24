@@ -5,24 +5,41 @@ A repository for source code Noise Engineering wants to share with the world.
 
 ## [Ataraxic Translatron](https://noiseengineering.us/products/ataraxic-translatron/) - [Source Code](msp430/AT.asm)
 
-Our first module. Used the [MSP430F2013](https://www.ti.com/product/MSP430F2013) processor.
-
-Interesting Anecdotes:
-
+* Our first module!
+* Releaed Insert Date Here
+* Used the [MSP430F2013](https://www.ti.com/product/MSP430F2013) processor.
 * uses a hardware timer that triggers an interrupt for timing/pitch generation. Between these interrupts the processor goes to sleep to reduce noise for the pitch ADC.
-* This is the only product we ever released with this processor.
+* This is the only product we released with this processor.
 
 ## [Confundo Funkitus](https://noiseengineering.us/products/confundo-funkitus/) - [Source Code](msp430/CF.asm)
 
+* Releaed Insert Date Here
+* Used the [MSP430G2453]() processor.
+
 ## [Integra Funkitus](https://noiseengineering.us/products/integra-funkitus) - [Source Code](msp430/IF.asm)
+
+* Releaed Insert Date Here
+* Used the [MSP430G2453]() processor.
 
 ## [Mimetic Sequent](https://noiseengineering.us/products/mimetic-sequent) - [Source Code](msp430/MS.asm)
 
+* Releaed Insert Date Here
+* Used the [MSP430G2553]() processor.
+
 ## [Tonnetz Sequent](https://noiseengineering.us/products/tonnetz-sequent) - [Source Code](msp430/TS.asm)
+
+* Releaed Insert Date Here
+* Used the [MSP430G2553]() processor.
 
 ## [Variatic Erumption](https://noiseengineering.us/products/variatic-erumption) - [Source Code](msp430/VE.asm)
 
+* Releaed Insert Date Here
+*Used the [MSP430G2453]() processor.
+
 ## [Variatic Sequent](https://noiseengineering.us/products/variatic-sequent) - [Source Code](msp430/VS.asm)
+
+* Releaed Insert Date Here
+* Used the [MSP430G2453]()
 
 ## FAQ
 
