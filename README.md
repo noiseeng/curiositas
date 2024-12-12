@@ -17,6 +17,7 @@ A repository for source code Noise Engineering wants to share with the world.
 
 * Released Insert Date Here
 * Used the [MSP430G2453](https://www.ti.com/product/MSP430G2453) processor.
+* Shipped with some minor bugs!
 
 [Integra Funkitus](https://noiseengineering.us/products/integra-funkitus) - [Source Code](msp430/IF.asm)
 -----
