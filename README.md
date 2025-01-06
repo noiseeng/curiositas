@@ -59,7 +59,7 @@ FAQ
 
 **Q: What license is this code released under?**
 
-**A:** This repository is released into the public domain under the terms of the [Unlicense](LICENSE.md)
+**A:** This repository is released into the public domain under the terms of the [Unlicense](LICENSE.md).
 
 **Q: Are you going to open source any of the hardware?**
 
