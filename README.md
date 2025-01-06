@@ -59,10 +59,7 @@ FAQ
 
 **Q: What license is this code released under?**
 
-**A:** We have two license options:
-
-* [GPL3](LICENSE_GPL3.md) (only for non-comercial use)
-* Commercial License ([contact](https://noiseengineering.us/support) us for details)
+**A:** This repository is released into the public domain under the terms of the [Unlicense](LICENSE.md)
 
 **Q: Are you going to open source any of the hardware?**
 
