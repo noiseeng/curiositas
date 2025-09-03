@@ -54,6 +54,9 @@ A repository for source code Noise Engineering wants to share with the world.
 * Used the [MSP430G2453](https://www.ti.com/product/MSP430G2453) processor.
 
 [Mimetic Digitalis](https://noiseengineering.us/products/mimetic-digitalis) - [Source Code](msp430/MD.c)
+-----
+
+* Released 2018
 
 FAQ
 ====
@@ -77,3 +80,4 @@ FAQ
 **Q: Do you think this is great code?**
 
 **A:** No. This was some of the first embedded code I had written. Most was written in assembly for fun (yea, i'm weird). It was absolutely hobbiest-level development. Looking back, the fact that any of these products was successful was nothing short of a miracle.
+
