@@ -25,7 +25,7 @@ A repository for source code Noise Engineering wants to share with the world.
 * Released 2016
 * Used the [MSP430G2453](https://www.ti.com/product/MSP430G2453) processor.
 
-[Mimetic Sequent](https://noiseengineering.us/products/mimetic-sequent) - [Source Code](msp430/MS.asm)
+[Mimetic Sequent](https://noiseengineering.us/products/mimetic-sequent-mimetic-multium/) - [Source Code](msp430/MS.asm)
 -----
 
 * Released 2017
@@ -44,7 +44,7 @@ A repository for source code Noise Engineering wants to share with the world.
 * Released 2015
 * Used the [MSP430G2453](https://www.ti.com/product/MSP430G2453) processor.
 
-[Variatic Sequent](https://noiseengineering.us/products/variatic-sequent) - [Source Code](msp430/VS.asm)
+[Variatic Sequent](https://noiseengineering.us/products/variatic-sequent-variatic-multium/) - [Source Code](msp430/VS.asm)
 -----
 
 * Released 2017
@@ -78,5 +78,6 @@ FAQ
 **Q: Do you think this is great code?**
 
 **A:** No. This was some of the first embedded code I had written. Most was written in assembly for fun (yea, i'm weird). It was absolutely hobbiest-level development. Looking back, the fact that any of these products was successful was nothing short of a miracle.
+
 
 
