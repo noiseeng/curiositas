@@ -1,7 +1,13 @@
 Curiositas
 =============
 
-A repository for source code Noise Engineering wants to share with the world.
+A repository for source code and other tidbits Noise Engineering wants to share with the world.
+
+
+[Panel Layouts]([https://noiseengineering.us/products/ataraxic-translatron/](https://github.com/noiseeng/curiositas/tree/main/panels)
+-----
+
+* Panel layout DXF/SVG files for a selection of Noise Engineering modules.
 
 [Ataraxic Translatron](https://noiseengineering.us/products/ataraxic-translatron/) - [Source Code](msp430/AT.asm)
 -----
