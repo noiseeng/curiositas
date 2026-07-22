@@ -1,6 +1,6 @@
 # Noise Engineering panel files
 
-We've collected the most recently produced versions of our panel layouts and shared them here for your convenience. 
+We've collected the most recently produced versions of our panel layouts and shared them here for your convenience. These are use at your own risk: there's a strong possiblity we don't have answers to the questions that plague you about panel making.
 
 Panel layouts often change slightly over time, so please double check that the measurements in the DXF/SVG files match the module you're making a panel here. 
 
